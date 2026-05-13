@@ -1,8 +1,6 @@
-Future Update Status: https://github.com/artgey/BIN-HEX-file-converter/milestones
+Future Update Status: https://github.com/artgey/Geyer/projects?query=is%3Aopen
 
-"Geyer"
-
-Can convert any file to to a .bin, .hex or .rom format and back to its origin format ("experimental" and only for a few specific File formats)
+"Geyer" can convert any file to to a .bin, .hex or .rom format and back to its origin format ("experimental" and only for a few specific File formats)
 
 "Tester" Keys
 - Serial install key: "**5612-6761-1988-6074**" for **ver. 1.0.0.0** ("alpha" release), Build Year: 2023
