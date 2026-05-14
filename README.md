@@ -6,7 +6,7 @@ Future Update Status: https://github.com/artgey/Geyer/projects?query=is%3Aopen
 - Serial install key: "**5612-6761-1988-6074**" for **ver. 1.0.0.0** ("alpha" release), Build Year: 2023
 - Serial install key: "**4390-0467-9327-2273**" for **ver. 1.1.0.0** ("beta" release)
 - Serial install key: "**7465-9322-6567-7170-9701**" for **ver. 1.2.0, 1.2.1** ("beta" release)
-- Serial install key: "**1291-2404-6364-7574-9602**" for **ver. 1.2.2, ver.1.2.3(hot fix), ver.1.2.4** ("beta" release)
+- Serial install key: "**1291-2404-6364-7574-9602**" for **ver. 1.2.2, ver.1.2.3(hot fix), ver.1.2.4, ver.1.2.5** ("beta" release)
 
   <br>
 **Preview: ver. 1.2** Major News: Blackmagic .braw Recovery, Simple Image Inspector
