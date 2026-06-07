@@ -10,6 +10,7 @@ Future Update Status: https://github.com/artgey/Geyer/projects?query=is%3Aopen
 **[[ v1.3 is coming soon ]]** https://github.com/artgey/Geyer/issues/42
 
   <br>
+  
 **Preview: ver. 1.2** Major News: Blackmagic .braw Recovery, Simple Image Inspector
  
   
