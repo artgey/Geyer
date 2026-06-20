@@ -2,14 +2,10 @@ Future Update Status: https://github.com/artgey/Geyer/projects?query=is%3Aopen
 
 "Geyer" can convert any file to to a .bin, .hex or .rom format and back to its origin format ("experimental" and only for a few specific File formats)
 
-"Tester" Keys
-- Serial install key: "**1291-2404-6364-7574-9602**" for **ver.1.2.5** ("beta" release)
+
 
 <br>
 
-**[[ v1.3 is coming soon ]]** https://github.com/artgey/Geyer/issues/42
-
-  <br>
   
 **Preview: ver. 1.2** Major News: Blackmagic .braw Recovery, Simple Image Inspector
  
